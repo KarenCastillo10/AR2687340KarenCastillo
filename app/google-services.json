@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544104361630",
+    "project_id": "ar2687340karenbaron",
+    "storage_bucket": "ar2687340karenbaron.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544104361630:android:7f643e80f5951dc64dd58f",
+        "android_client_info": {
+          "package_name": "co.edu.sena.ar2687340karenbaron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544104361630-nu0fs55l27ln55u0r3pq0khohrsu4dqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvDfVQBeYiaGsqi24ajHi7MmjWVeJHgf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544104361630-nu0fs55l27ln55u0r3pq0khohrsu4dqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
